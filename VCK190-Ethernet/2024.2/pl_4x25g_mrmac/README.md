@@ -1,4 +1,4 @@
-# pl_4x25g_mrmac - Versal MRMAC 
+# 2024.2 pl_4x25g_mrmac - Versal MRMAC without PTP
 
 ## Design Summary
 
