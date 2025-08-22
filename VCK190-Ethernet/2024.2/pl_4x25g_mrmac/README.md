@@ -8,7 +8,7 @@ This project utilizes Versal Devices Integrated 100G Multirate Ethernet MAC Subs
 ## Required Hardware
 - VCK190
 - QSFP DAC
-- 10G/25G capable link partner
+- 25G capable link partner
 
 ## Build Instructions
 ### **Vivado:**
